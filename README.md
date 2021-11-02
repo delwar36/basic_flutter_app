@@ -1,4 +1,4 @@
-# soulmate
+# Flutter bloc basic app
 
 A new Flutter project.
 
