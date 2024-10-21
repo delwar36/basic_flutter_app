@@ -3,9 +3,9 @@ import 'package:basic_app/utils/utils.dart';
 
 class Application {
   static const bool debug = false;
-  static const String version = '1.1.2';
-  static const String domain = 'http://listar.passionui.com/index.php/wp-json';
-  static const String googleAPI = 'AIzaSyAGHlk0PoZ-BdSwUJh_HGSHXWKlARE4Pt8';
+  static const String version = '1.0.0';
+  static const String domain = 'API_BASE_URL';
+  static const String googleAPI = 'GOOGLE_API_KEY';
   static DeviceModel? device;
 
   static Future<void> setDevice() async {
